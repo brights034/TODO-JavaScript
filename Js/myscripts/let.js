@@ -1,6 +1,6 @@
-var camper = "James";
-var camper = "David";
-console.log(camper);
+// var camper = "James";  //
+// var camper = "David";
+// console.log(camper);
 
 
 let catName = "Oliver";
