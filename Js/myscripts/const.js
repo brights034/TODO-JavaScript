@@ -6,5 +6,5 @@
 
 const FCC = "freeCodeCamp"; // Change this line
 let fact = "is cool!"; // Change this line
-var fact = "is awesome!";
+fact = "is awesome!";
 console.log(FCC, fact); // Change this line
