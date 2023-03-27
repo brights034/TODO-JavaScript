@@ -1,5 +1,5 @@
-const lastName = "Lovelace";
+const lastName = "Bright Sunny";
 
-// Only change code below this line
+
 const secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
-//console.log(secondToLastLetterOfLastName)
+console.log(secondToLastLetterOfLastName)
