@@ -7,7 +7,7 @@ const myArray = [["Akhil",[25, "15-09-1997"], "a@gmail.com" ], ["Bright", [25, "
 
 
 myArray.push(["vibin"]);
-// console.log(myArray);
+ console.log(myArray);
 
 
 //*.pop() is used to pop a value off of the end of an array.*//
