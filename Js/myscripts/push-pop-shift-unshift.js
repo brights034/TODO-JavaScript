@@ -15,13 +15,17 @@ const removedFromArray = myArray.pop();
 // console.log(removedFromArray);
 // console.log(myArray);
 
-
-
 //* .shift() removes the first element instead of the last.*//
 const removefarray = myArray.shift();
 console.log(removefarray);
 console.log(myArray);
 
+// Setup
+// const det = [["John", 23], ["dog", 3]];
+
+const removeddet = det.shift();
+//console.log(removeddet);
+//console.log(det);
 
 //* .unshift() adds the element at the beginning of the array.*//
 // Setup
