@@ -20,18 +20,11 @@ const removefarray = myArray.shift();
 console.log(removefarray);
 console.log(myArray);
 
-// Setup
-// const det = [["John", 23], ["dog", 3]];
-
-const removeddet = det.shift();
-//console.log(removeddet);
-//console.log(det);
 
 //* .unshift() adds the element at the beginning of the array.*//
 // Setup
-const details = [["John", 23], ["dog", 3]];
-details.shift();
+const details = myArray.unshift(["Akhil",[25, "15-09-1997"], "a@gmail.com" ]);
 
 // Only change code below this line
-details.unshift(["Paul", 35]);
-//console.log(details);
+//details.unshift(["Akhil",[25, "15-09-1997"], "a@gmail.com" ]);
+console.log(details);
