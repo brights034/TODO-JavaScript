@@ -9,12 +9,14 @@ const myArray = [["Akhil",[25, "15-09-1997"], "a@gmail.com" ], ["Bright", [25, "
 myArray.push(["vibin"]);
 console.log(myArray);
 
+const removedFromArray = myArray.pop();
+console.log(removedFromArray);
 //*.pop() is used to pop a value off of the end of an array.*//
 // Setup
-const Array = [["John", 23], ["cat", 2]];
+//const Array = [["John", 23], ["cat", 2]];
 
 
-const removedFromArray = Array.pop();
+//const removedFromArray = Array.pop();
 //console.log(removedFromArray);
 //console.log(Array);
 
