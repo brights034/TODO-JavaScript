@@ -17,8 +17,8 @@ const removedFromArray = myArray.pop();
 
 //* .shift() removes the first element instead of the last.*//
 const removefarray = myArray.shift();
-console.log(removefarray);
-console.log(myArray);
+//console.log(removefarray);
+//console.log(myArray);
 
 // Setup
 // const det = [["John", 23], ["dog", 3]];
@@ -35,3 +35,4 @@ const details = myArray.shift();
 // Only change code below this line
 details.unshift(["Akhil",[25, "15-09-1997"], "a@gmail.com" ]);
 console.log(details);
+console.log(myArray);
