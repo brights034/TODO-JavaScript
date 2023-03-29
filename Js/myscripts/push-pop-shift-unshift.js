@@ -15,7 +15,7 @@ const Array = [["John", 23], ["cat", 2]];
 
 
 const removedFromArray = Array.pop();
-console.log(removedFromArray);
+//console.log(removedFromArray);
 //console.log(Array);
 
 //* .shift() removes the first element instead of the last.*//
