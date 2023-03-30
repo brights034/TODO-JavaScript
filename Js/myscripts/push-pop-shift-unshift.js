@@ -29,10 +29,11 @@ const myArray = [["Akhil",[25, "15-09-1997"], "a@gmail.com" ], ["Bright", [25, "
 
 // //* .unshift() adds the element at the beginning of the array.*//
 // // Setup
-const details = myArray.unshift(["Akhil",[25, "15-09-1997"], "a@gmail.com" ]);
+const details = myArray.shift();
 //details.shift();
+console.log(details);
 
 // Only change code below this line
-//details.unshift(["Akhil",[25, "15-09-1997"], "a@gmail.com" ]);
-console.log(details);
-console.log(myArray);
+// details.unshift(["Akhil",[25, "15-09-1997"], "a@gmail.com" ]);
+// console.log(details);
+// console.log(myArray);
