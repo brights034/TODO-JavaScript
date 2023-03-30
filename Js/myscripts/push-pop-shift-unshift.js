@@ -29,7 +29,7 @@ const myArray = [["Akhil",[25, "15-09-1997"], "a@gmail.com" ], ["Bright", [25, "
 
 // //* .unshift() adds the element at the beginning of the array.*//
 // // Setup
-const details = myArray.shift();
+//const details = myArray.shift();
 //details.shift();
 
 // Only change code below this line
