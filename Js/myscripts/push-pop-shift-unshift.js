@@ -11,9 +11,10 @@ console.log(myArray);
 
 
 //*.pop() is used to pop a value off of the end of an array.*//
+console.log(myArray);
 const removedFromArray = myArray.pop();
 console.log(removedFromArray);
-console.log(myArray);
+
 
 //* .shift() removes the first element instead of the last.*//
 const removefarray = myArray.shift();
