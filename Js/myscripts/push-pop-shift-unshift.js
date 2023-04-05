@@ -3,7 +3,7 @@
 // //*.push() used to push one or more parameters and "pushes" them onto the end of the array.*//
 
 // // Setup
-// const myArray = [["Akhil", [25, "15-09-1997"], "a@gmail.com"], ["Bright", [25, "22-05-1997"], "b@gmail.com"], ["Sreepadh", [25, "20-11-1997"], "s@gmail.com"]];
+ const myArray = [["Akhil", [25, "15-09-1997"], "a@gmail.com"], ["Bright", [25, "22-05-1997"], "b@gmail.com"], ["Sreepadh", [25, "20-11-1997"], "s@gmail.com"]];
 
 
 // myArray.push(["vibin"]);
