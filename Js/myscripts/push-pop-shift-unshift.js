@@ -6,7 +6,7 @@
  var myArray = [["Akhil", [25, "15-09-1997"], "a@gmail.com"], ["Bright", [25, "22-05-1997"], "b@gmail.com"], ["Sreepadh", [25, "20-11-1997"], "s@gmail.com"]];
 
 
-// myArray.push(["vibin"]);
+ myArray.push(["vibin","v@gmail.com"]);
 // console.log(myArray);
 
 
