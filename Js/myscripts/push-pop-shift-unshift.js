@@ -24,9 +24,9 @@
 
 //* .unshift() adds the element at the beginning of the array.*//
 // Setup
-const myArrays = [["Akhil", [25, "15-09-1997"], "a@gmail.com"], ["Bright", [25, "22-05-1997"], "b@gmail.com"], ["Sreepadh", [25, "20-11-1997"], "s@gmail.com"]];
+// const myArrays = [["Akhil", [25, "15-09-1997"], "a@gmail.com"], ["Bright", [25, "22-05-1997"], "b@gmail.com"], ["Sreepadh", [25, "20-11-1997"], "s@gmail.com"]];
 
-myArrays.shift();
+// myArrays.shift();
 
-myArrays.unshift(["Akhil", [25, "15-09-1997"], "a@gmail.com"]);
-console.log(myArrays);
+// myArrays.unshift(["Akhil", [25, "15-09-1997"], "a@gmail.com"]);
+// console.log(myArrays);
